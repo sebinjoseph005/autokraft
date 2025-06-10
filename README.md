@@ -16,6 +16,17 @@ Welcome to **Autokraft**, a sleek and responsive e-commerce platform for premium
 
 ---
 
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/home%20page.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/about%20page.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/product%20page1.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/product%20page2.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/cart%20page.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/contact%20page.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/checkout%20page.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/placing%20order.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/order%20placed.png)
+![image alt](https://github.com/sebinjoseph005/autokraft/blob/1690d01a99f2d5db7b800134e2ca0096b6f7a42e/images/mongodb%20stored%20data%20base.png)
+
 ## 🛠 Tech Stack
 
 ### Frontend:
