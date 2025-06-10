@@ -1,0 +1,73 @@
+.about-section {
+    padding: 4rem 2rem;
+    background-color: white;
+    margin: 2rem 0;
+}
+
+.about-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.about-section h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #1a1a1a;
+}
+
+.tagline {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #ff6b6b;
+    margin-bottom: 2rem;
+    font-weight: 600;
+}
+
+.about-text {
+    margin-bottom: 3rem;
+    line-height: 1.8;
+}
+
+.about-text p {
+    margin-bottom: 1.5rem;
+}
+
+.why-choose {
+    background-color: #f9f9f9;
+    padding: 2rem;
+    border-radius: 8px;
+}
+
+.why-choose h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+    color: #1a1a1a;
+}
+
+.why-choose ul {
+    list-style: none;
+    margin-bottom: 2rem;
+}
+
+.why-choose li {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.why-choose i {
+    color: #ff6b6b;
+    width: 25px;
+    text-align: center;
+}
+
+.closing {
+    font-style: italic;
+    text-align: center;
+    font-size: 1.2rem;
+    color: #555;
+}
