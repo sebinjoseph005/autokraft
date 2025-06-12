@@ -338,7 +338,7 @@ const CheckoutModal = ({ isOpen, closeModal, cartTotal, cart }) => {
                       <div className="payment-fallback" style={{ display: '' }}>
                         <p><strong>UPI ID:</strong> josephsebin012@oksbi</p>
                         <p><strong>Phone:</strong> +91 8075875280</p>
-                        <p><strong>Name:</strong> Autokraft</p>
+                        <p><strong>Name:</strong> AA-Autokraft</p>
                       </div>
                     </div>
                     <p className="payment-note">
