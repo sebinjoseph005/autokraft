@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-logo">
           <img src="/assets/images/autokraft.jpg" alt="AutoKraft Logo" />
-          <h3>AutoKraft</h3>
+          <h3>AA-AutoKraft</h3>
         </div>
         <div className="footer-links">
           <a href="#">Home</a>
