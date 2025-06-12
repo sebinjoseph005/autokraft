@@ -2,6 +2,24 @@ import React from 'react';
 import '../styles/contact.css';
 
 const Contact = () => {
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    
+    // Get form values
+    const name = e.target.elements[0].value;
+    const email = e.target.elements[1].value;
+    const message = e.target.elements[2].value;
+    
+    // Create WhatsApp message
+    const whatsappMessage = `Name: ${name}%0AEmail: ${email}%0AMessage: ${message}`;
+    
+    // Open WhatsApp with the message
+    window.open(`https://wa.me/918075875280?text=${whatsappMessage}`, '_blank');
+    
+    // Reset the form
+    e.target.reset();
+  };
+
   return (
     <section id="contact" className="contact-section">
       <h2>Contact Us</h2>
@@ -20,7 +38,7 @@ const Contact = () => {
         </div>
         
         <div className="contact-form">
-          <form>
+          <form onSubmit={handleSubmit}>
             <div className="form-group">
               <input type="text" placeholder="Your Name" required />
             </div>
